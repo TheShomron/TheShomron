@@ -36,15 +36,13 @@ I am also experienced with SQL databases and Azure.
 <br>
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
- 
-### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/EladShomron/">My linkedin</a>
-<br>
-You can also messege me by mail : Elad17121999@gmail.com
 
+ 
+### 📫 Reach me:
+<br>
+My mail : Elad17121999@gmail.com
+<a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <div align="center">
 <p>Click on the photo to Get to my portfolio page</p>
 <a href="https://theshomron.github.io/CV_Website/#portfolio" target="_blank">
