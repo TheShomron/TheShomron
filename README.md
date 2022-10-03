@@ -25,8 +25,9 @@ I am also experienced with SQL databases and Azure.
 </details>
 
  <br>
- <div align="center">
+ 
  📫 Reach me:<br>
+ <div align="center">
  My Email : Elad17121999@gmail.com <br>
 
  <a href="mailto:Elad17121999@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="35" /></a>
