@@ -1,4 +1,4 @@
-<h1 align="center" font-size="42px">
+<h1 align="center" style="font-size:x-large">
  <img height="75" width="90" src=https://github.com/TheShomron/TheShomron/blob/main/icons/mortyGif.gif/>
  Welcome To My Profile
 <img height="80" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
