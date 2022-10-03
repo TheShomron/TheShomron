@@ -1,4 +1,4 @@
-# About Me:
+<h1 align="center">Welcome To My Profile </h1>
 My name is Elad Shomron, 22, from ra'annana.
 Currently a student at Sala College majoring in computer science.
 I have a strong work ethic and I am looking for a position where I can grow and learn.
