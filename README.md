@@ -26,10 +26,10 @@ I am also experienced with SQL databases and Azure.
 
  <br>
  <div align="center">
- 📫 Reach me:
-My mail : Elad17121999@gmail.com<br> <a href="mailto:Elad17121999@gmail.com">
+ 📫 Reach me:<br>
+<div> My mail : Elad17121999@gmail.com<br> <a href="mailto:Elad17121999@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-</a>
+</a </div>
 <a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
