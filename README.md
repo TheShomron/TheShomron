@@ -33,12 +33,13 @@ I am also experienced with SQL databases and Azure.
 <image src="icons/AZURE.jpeg"> Azure az-204 <br>
 
 
- 
+ <br>
 ### 📫 Reach me:
+ <div align="center">
 My mail : Elad17121999@gmail.com<br>
 <a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
+</div>
 <p>Click on the photo to Get to my portfolio page</p>
 <a href="https://theshomron.github.io/CV_Website/#portfolio" target="_blank">
  <img alt="Prtfolio" src="icons/WebsiteMainPage.jpeg"   width="650" >
