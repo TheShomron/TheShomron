@@ -3,8 +3,7 @@
  Welcome To My Profile
 <img height="80" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
 <p align="center">
-Elad Shomron<br>
-Im 22 , from ra'annana.
+my name is Elad Shomron , im 22 y.o & live in ra'annana.
 Currently a student at Sala College majoring in computer science.
 I have a strong work ethic and I am looking for a position where I can grow and learn.
 I am proficient in HTML5, CSS3, JS, WPF, C, and Python.
