@@ -6,7 +6,6 @@
  My name is Elad Shomron, 22, from ra'annana.
 Currently a student at Sala College majoring in computer science.
 I have a strong work ethic and I am looking for a position where I can grow and learn.
-
 I am proficient in HTML5, CSS3, JS, WPF, C, and Python.
 I am also experienced with SQL databases and Azure.
 </p>
