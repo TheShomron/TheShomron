@@ -32,18 +32,13 @@ I am also experienced with SQL databases and Azure.
 <h3>Cloud</h3>
 <image src="icons/AZURE.jpeg"> Azure az-204 <br>
 
-</div>
-<br>
-🔗 &nbsp;**Connect with me**
-<p align="left">
 
  
 ### 📫 Reach me:
-<br>
-My mail : Elad17121999@gmail.com
+My mail : Elad17121999@gmail.com<br>
 <a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<div align="center">
+
 <p>Click on the photo to Get to my portfolio page</p>
 <a href="https://theshomron.github.io/CV_Website/#portfolio" target="_blank">
  <img alt="Prtfolio" src="icons/WebsiteMainPage.jpeg"   width="650" >
