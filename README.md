@@ -1,5 +1,5 @@
 <h1 align="center">
- <img height="60" width="55" src=https://github.com/TheShomron/TheShomron/blob/main/icons/mortyGif.gif/>
+ <img height="60" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/mortyGif.gif/>
  Welcome To My Profile
 <img height="60" width="55" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
 My name is Elad Shomron, 22, from ra'annana.
