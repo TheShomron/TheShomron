@@ -33,7 +33,7 @@
 <br>
 
 ### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/elad-shomron-b5a16b239/">My linkedin</a>
+<a href="https://www.linkedin.com/in/EladShomron/">My linkedin</a>
 <br>
 You can also messege me by mail : Elad17121999@gmail.com
 
