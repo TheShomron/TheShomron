@@ -27,9 +27,9 @@ I am also experienced with SQL databases and Azure.
  <br>
  <div align="center">
  📫 Reach me:<br>
- My mail : Elad17121999@gmail.com <br>
+ My Email : Elad17121999@gmail.com <br>
 
- <a href="mailto:Elad17121999@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" /></a>
+ <a href="mailto:Elad17121999@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="35" /></a>
 <a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
