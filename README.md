@@ -1,7 +1,7 @@
-<h1 align="center">
- <img height="60" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/mortyGif.gif/>
+<h1 align="center" font-size="42px">
+ <img height="75" width="90" src=https://github.com/TheShomron/TheShomron/blob/main/icons/mortyGif.gif/>
  Welcome To My Profile
-<img height="60" width="55" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
+<img height="80" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
 My name is Elad Shomron, 22, from ra'annana.
 Currently a student at Sala College majoring in computer science.
 I have a strong work ethic and I am looking for a position where I can grow and learn.
