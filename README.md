@@ -1,5 +1,5 @@
 <h1 align="center">
- <iframe src="https://giphy.com/embed/SvGFA2WF9IP0WjmzvE" width="373" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/rickandmorty-season-4-episode-3-rick-and-morty-SvGFA2WF9IP0WjmzvE">via GIPHY</a></p>Welcome To My Profile </h1>
+<img max-width="800" src=["https://raw.githubusercontent.com/innng/innng/master/assets/banner.png"](https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif)/> Welcome To My Profile </h1>
 My name is Elad Shomron, 22, from ra'annana.
 Currently a student at Sala College majoring in computer science.
 I have a strong work ethic and I am looking for a position where I can grow and learn.
