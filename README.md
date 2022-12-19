@@ -2,18 +2,13 @@
  <img height="75" width="100" src=https://github.com/TheShomron/TheShomron/blob/main/icons/mortyGif.gif/>
  Welcome Everyone
 <img height="80" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
-<p align="center">
+
  
+ ## Hey 👋, I'm [Elad Shomron!](https://github.com/TheShomron/TheShomron)
+ 
+ <p align="center">
 Welcome to my GitHub page! Here you will find a collection of my personal projects and contributions to open source software. I am a software developer with a passion for creating efficient and effective solutions to complex problems. I hope that my projects can inspire and assist others in their own development endeavors. Thank you for stopping by and please feel free to reach out if you have any questions or comments.
-
 </p>
-
-
- <br>
- 
-
-## Hey 👋, I'm [Elad Shomron!](https://github.com/TheShomron/TheShomron)
-
 
 ### Glad to see you here! &nbsp;
 
@@ -26,7 +21,7 @@ Like My Work?
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://media0.giphy.com/media/K3htdZ1XuVWVD5DZDZ/giphy.gif?cid=ecf05e475snn4znm7fio9svuyh8ms279sdq6nbuztukuqcgb&rid=giphy.gif&ct=g" />
+<img align="right" height="250" width="375" alt="" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475snn4znm7fio9svuyh8ms279sdq6nbuztukuqcgb&rid=giphy.gif&ct=g" />
 
 ### Talking about Personal Stuffs:
 
