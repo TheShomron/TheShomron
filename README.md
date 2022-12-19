@@ -4,7 +4,7 @@
 <img height="80" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
 
  
- ## Hey 👋, I'm [Elad Shomron!](https://github.com/TheShomron/TheShomron)
+<h1> ## Hey 👋, I'm [Elad Shomron!](https://github.com/TheShomron/TheShomron)</h1>
  
  <p align="center">
 Welcome to my GitHub page! Here you will find a collection of my personal projects and contributions to open source software. I am a software developer with a passion for creating efficient and effective solutions to complex problems. I hope that my projects can inspire and assist others in their own development endeavors. Thank you for stopping by and please feel free to reach out if you have any questions or comments.
