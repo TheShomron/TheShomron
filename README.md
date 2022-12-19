@@ -10,7 +10,11 @@ I am proficient in HTML5, CSS3, JS, WPF, C, and Python.
 I am also experienced with SQL databases and Azure.
 </p>
 
+
+<h1>About Me: </h1>
+<p>Welcome to my GitHub page! Here you will find a collection of my personal projects and contributions to open source software. I am a software developer with a passion for creating efficient and effective solutions to complex problems. I hope that my projects can inspire and assist others in their own development endeavors. Thank you for stopping by and please feel free to reach out if you have any questions or comments.</p>
 <details>
+ 
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left">  
