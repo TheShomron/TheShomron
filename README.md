@@ -78,7 +78,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/TheShomron?tab=repositories).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: Elad17121999@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/TheShomron/TheShomron/blob/main/Elad%20Shomron%20Cv.pdf).
 
 ### My Absolute Favorites:
 
@@ -131,10 +131,6 @@ Like My Work?
 	</ul>	
 </details>
 
-#
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
-</div>
