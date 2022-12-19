@@ -3,18 +3,17 @@
  Welcome To My Profile
 <img height="80" width="75" src=https://github.com/TheShomron/TheShomron/blob/main/icons/rickgif.gif/></h1>
 <p align="center">
+ 
 Welcome to my GitHub page! Here you will find a collection of my personal projects and contributions to open source software. I am a software developer with a passion for creating efficient and effective solutions to complex problems. I hope that my projects can inspire and assist others in their own development endeavors. Thank you for stopping by and please feel free to reach out if you have any questions or comments.
+
 </p>
 
 
-<h1>About Me: </h1>
-<p>
+<h1 align="center">About Me: </h1>
+<p align="center">
 
-my name is Elad Shomron , im 22 y.o & live in ra'annana.<br>
-Currently a student at Sala College majoring in computer science.
-I have a strong work ethic and I am looking for a position where I can grow and learn.
-I am proficient in HTML5, CSS3, JS, WPF, C, and Python.
-I am also experienced with SQL databases and Azure.
+my name is Elad Shomron, I am skilled in a variety of programming languages and frameworks, including c# Python js html and more. I have a strong understanding of software development best practices and am able to effectively communicate and collaborate with cross-functional teams. I am always looking to learn and grow, and I am excited to take on new challenges and contribute to meaningful projects.
+ 
 </p>
 <details>
  
@@ -29,6 +28,7 @@ I am also experienced with SQL databases and Azure.
  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+ href="https://www.typescriptlang.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI5yRXXN3_u6js4QpvsOLqyJvGvDYjUzfSDtBPjHrDlg&s" alt="typescript" width="40" height="40"/> </a> </p>
 </details>
 
  <br>
