@@ -34,7 +34,7 @@ my name is Elad Shomron, I am skilled in a variety of programming languages and 
    <a href="https://docs.docker.com/" target="_blank"> <img src="https://devtalles.com/images/moby.png" alt="typescript" width="40" height="40"/> </a>
  
 
- 
+ </p>
    <a href="" target="_blank"> <img src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="typescript" width="40" height="40"/> </a>
 </details>
 
