@@ -58,7 +58,7 @@ my name is Elad Shomron, I am skilled in a variety of programming languages and 
 ## Hey 👋, I'm [Elad Shomron!](https://github.com/TheShomron/TheShomron)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
 I'm a graduate in Computer Science 🎓 from Sella Collage 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and help others 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
