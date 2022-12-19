@@ -40,18 +40,11 @@ my name is Elad Shomron, I am skilled in a variety of programming languages and 
 
  <br>
  
- 📫 Reach me:<br>
- <div align="center">
- My Email : Elad17121999@gmail.com <br>
 
- <a href="mailto:Elad17121999@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="35" /></a>
-<a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-<p>Click on the photo to Get to my portfolio page</p>
-<a href="https://theshomron.github.io/CV_Website/#portfolio" target="_blank">
- <img alt="Prtfolio" src="icons/WebsiteMainPage.jpeg"   width="650" >
-      </a>
+
+
+
   </div>
 
 
@@ -80,6 +73,10 @@ Like My Work?
 - 📫 &nbsp; How to reach me: Elad17121999@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/TheShomron/TheShomron/blob/main/Elad%20Shomron%20Cv.pdf).
 
+ <a href="mailto:Elad17121999@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="35" /></a>
+<a href="https://www.linkedin.com/in/EladShomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_shomron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
@@ -102,7 +99,10 @@ Like My Work?
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects and Dev Stuffs:
+<p>Click on the photo to Get to my portfolio page</p>
+<a href="https://theshomron.github.io/CV_Website/#portfolio" target="_blank">
+ <img alt="Prtfolio" src="icons/WebsiteMainPage.jpeg"   width="650" >
+      </a>
 
 
 
